@@ -110,7 +110,9 @@ MIT License — free to use, modify, and distribute.
 
 **Zoha Ashraf**  
  Github: https://github.com/ZohaAshraf
+ 
 Linked In: https://www.linkedin.com/in/zohashraf/
+
 Medium: 
 ---
 
