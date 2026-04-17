@@ -109,9 +109,9 @@ MIT License — free to use, modify, and distribute.
 ##  Author
 
 **Zoha Ashraf**  
-https://github.com/ZohaAshraf
-https://www.linkedin.com/in/zohashraf/
-
+ Github: https://github.com/ZohaAshraf
+Linked In: https://www.linkedin.com/in/zohashraf/
+Medium: 
 ---
 
 *Built as a learning project while studying C programming. Feedback and stars are appreciated! ⭐*
