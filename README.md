@@ -108,7 +108,7 @@ MIT License — free to use, modify, and distribute.
 
 ##  Author
 
-**Your Name**  
+**Zoha Ashraf**  
 https://github.com/ZohaAshraf
 https://www.linkedin.com/in/zohashraf/
 
