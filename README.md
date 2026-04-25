@@ -4,6 +4,12 @@ A clean, beginner-friendly **console application** built in C that calculates st
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://student-grade-calculator-c-language.vercel.app/
+
+---
+
 ##  Sample Output
 
 ```
